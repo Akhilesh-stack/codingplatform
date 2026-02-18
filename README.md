@@ -6,4 +6,4 @@ CodeZen is a full-stack coding practice platform that provides AI-powered real-t
 
 📂 GitHub 👉 https://github.com/Akhilesh-stack/codingplatform
 
-👨‍💻 Author Akhilesh Kumar Yadav 
+👨‍💻 Author->Akhilesh Kumar Yadav|| Github : https://github.com/Akhilesh-stack
