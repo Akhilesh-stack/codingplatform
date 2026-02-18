@@ -4,6 +4,6 @@ CodeZen is a full-stack coding practice platform that provides AI-powered real-t
 
 🛠 Tech Stack MERN Stack, Redis, JWT, Bcrypt, Cloudinary, Cookie Parser, Google Gen AI API
 
-📂 GitHub 👉 
+📂 GitHub 👉 https://github.com/Akhilesh-stack/codingplatform
 
-👨‍💻 Author 
+👨‍💻 Author Akhilesh Kumar Yadav 
